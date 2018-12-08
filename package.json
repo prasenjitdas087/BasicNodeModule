@@ -1,0 +1,22 @@
+{
+  "name": "basicnode",
+  "version": "1.0.0",
+  "description": "Understanding the node and use the basic functionality of node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasenjitdas087/BasicNodeModule.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Prasenjit Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasenjitdas087/BasicNodeModule/issues"
+  },
+  "homepage": "https://github.com/prasenjitdas087/BasicNodeModule#readme"
+}
